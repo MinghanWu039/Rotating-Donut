@@ -1,2 +1,4 @@
 # Rotating-Donut
-Use ASCII characters to build a rotating donut subject to illumination. Also contains extension to other geometric objects.
+Use java to build a rotating donut with ASCII characters. The donut is subject to illumination.
+
+The project has extension to include other geometric objects.
